@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-gsie6j.juragan89a.space/sitemap.xml
